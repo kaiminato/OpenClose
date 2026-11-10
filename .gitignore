@@ -1,0 +1,8 @@
+model/
+__pycache__/
+*.pyc
+*.zip
+_model_tmp/
+build/
+dist/
+*.spec
